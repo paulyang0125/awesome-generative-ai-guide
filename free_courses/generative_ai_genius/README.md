@@ -2,7 +2,7 @@
 
 ![Screenshot 2024-06-13 at 3.19.32 PM.png](https://github.com/aishwaryanr/awesome-generative-ai-resources/blob/main/free_courses/generative_ai_genius/genai_intro.png)
 
-# 🎉The course starts on July 8th 2024! [Register now](https://forms.gle/sDdjXcmn9ka8BSFg9)
+# 🎉The course starts on July 8th 2024! Registrations Closed (You can audit the course for free)
 
 # About the Course:
 
@@ -64,12 +64,12 @@ You have two options: auditing the course or registering, both of which are free
 
 **Auditing the Course:**
 
-- You can watch the daily videos first on [Instagram](https://rb.gy/ae4z68). Links will be posted here too, but there might be a delay. For quicker updates, follow my account.
+- You can watch the daily videos first on [Instagram](https://rb.gy/ae4z68) & [YouTube](https://www.youtube.com/@aishwaryanr4606). Links will be posted here too, but there might be a delay. For quicker updates, follow my account.
 - Access additional resources through this page daily; mini-project resources will also be available here.
 
 **Registering For the Course:**
 
-- If you prefer to register (you can register any day during the 20-day course): submit a form [here](https://forms.gle/sDdjXcmn9ka8BSFg9)
+- **Registrations are closed for this course, feel free to audit (watch videos and access content here)**
 - Registered participants will receive all the benefits mentioned above, plus
     - Priority RSVP to a 1 hour seminar on building generative AI applications for the real world
     - Updates regarding any future courses or events
@@ -79,7 +79,7 @@ You have two options: auditing the course or registering, both of which are free
 
 [Aishwarya Naresh Reganti](https://www.linkedin.com/in/areganti/) works as a tech lead at the AWS-Generative AI Innovation Center in California, where she leads projects aimed at building production-ready generative AI applications for medium to large-sized businesses. With over 8 years of experience in machine learning, Aishwarya has published 30+ research papers in top AI conferences and mentored numerous graduate students. She actively collaborates with research labs and professors from institutions like Stanford University, University of Michigan, and University of South Carolina on projects related to LLMs, graph models and generative AI.
 
-Outside her professional and academic pursuits, Aishwarya actively contributes to education through various channels. She offers free courses online, with over 3000 individuals having taken them already, and serves as a visiting lecturer at  institutions like Massachusetts Institute of Technology and University of Oxford.  
+Outside her professional and academic pursuits, Aishwarya actively contributes to education through various channels. She offers free courses online, with over 3000 individuals having taken them already, and serves as a guest instructor at  institutions like Massachusetts Institute of Technology and University of Oxford.  
 
 Additionally, she co-founded The LevelUp Org in 2022, a tech mentoring community dedicated to assisting newcomers in the field through mentorship programs and career-oriented events. A recognized industry expert and thought leader, Aishwarya frequently speaks at various industry conferences like ODSC, WomenTech Network, ReWork, and AI4, and has presented research at top-tier AI research conferences including EMNLP, AAAI, and CVPR.
 
@@ -87,25 +87,201 @@ LinkedIn: [https://www.linkedin.com/in/areganti/](https://www.linkedin.com/in/ar
 
 Instagram: [https://www.instagram.com/aish_reganti/](https://www.instagram.com/aish_reganti/)
 
----
+YouTube: [https://www.youtube.com/@aishwaryanr4606](https://www.youtube.com/@aishwaryanr4606)
 
 ---
 
-# 🎉The course starts on July 8th 2024. Stay tuned!
+---
 
----------YET TO APPEAR---------
-## 🗓️ Day 0: Course Introduction
+
+### Course Videos: 
+
+The videos will be available here everyday at 7:30 PM, Pacific Time
+1. [Instagram](https://www.instagram.com/aish_reganti)
+2. [YouTube](https://www.youtube.com/playlist?list=PLZoalK-hTD4VBBF03HAifKd6-DF68sYlC)
+
+
+## 🗓️ Day 1: What is Generative AI (July 8th, 2024)
+
+---
+**Key Topics**: AI, Generative AI, Neural Networks, Large Language Models(LLMs), Model Training
+
+**Reading Material**:
+- https://medium.com/womenintechnology/ai-c3412c5aa0ac
+
+## 🗓️ Day 2: How are LLMs like ChatGPT Trained? (July 9th, 2024)
+
+---
+**Key Topics**: Training, Fine-Tuning, Reinforcement Learning, Alignment
+
+**Reading Material**:
+- https://snorkel.ai/large-language-model-training-three-phases-shape-llm-training/
+
+## 🗓️ Day 3: Basics of Prompt Engineering (July 10th, 2024)
+
+---
+**Key Topics**: Prompting, Prompt Engineering
+
+**Reading Material**:
+- https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api
+
+
+## 🗓️ Day 4: Advanced Prompt Engineering (July 11th, 2024) 
+---
+**Key Topics**: Chain of Thought Prompting, Self-Refine, Self-Consistency, Zero-Shot, Few-Shot
+
+**Reading Material**:
+- https://www.promptingguide.ai/techniques
+- [Optional] [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608)
+
+## 🗓️ Day 5: Automatic Prompt Engineering (July 12th, 2024) 
+---
+**Key Topics**: Meta Prompting, Automatic Prompt Engineeering
+
+**Reading Material**:
+- [Claude Meta Prompting Engine](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/prompt-generator)
+- https://cobusgreyling.medium.com/automatic-prompt-engineering-907e230ece0
+
+## 🗓️ Day 6: LLM Hallucinations and Causes (July 13th, 2024) 
+---
+**Key Topics**: Hallucinations, Sycophancy, Causes of Hallucinations
+
+**Reading Material**:
+- https://www.iguazio.com/glossary/llm-hallucination/
+
+---
+## 💻 Mini-Project 1 (Build a GPT-3.5 backed Chatbot)
+
+In this mini-project, you'll complete a 1 hour course from Deeplearning.AI that can help you build a chatbot that does the following
+- Summarizing (e.g., summarizing user reviews for brevity)
+- Inferring (e.g., sentiment classification, topic extraction)
+- Transforming text (e.g., translation, spelling & grammar correction)
+- Expanding (e.g., automatically writing emails)
+
+Prerequisites: Familiarity with Python
+
+The course is completely free for everyone to take. Please find it [here](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+
+Happy coding!!
+
+---
+## 🗓️ Day 7: Context Length (July 14th, 2024) 
+---
+**Key Topics**: Definition, Needle in a haystack test, Lost in the middle problem
+
+**Reading Material**:
+- https://agi-sphere.com/context-length/
+---
+
+## 🗓️ Day 8: Retrieval Augmented Generation (RAG) (July 15th, 2024) 
+---
+**Key Topics**: Basics, 4 Phases of RAG
+
+**Reading Material**:
+- https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/
+
+---
+## 🗓️ Day 9:What are embeddings? (July 16th, 2024) 
+---
+**Key Topics**: Word Vectors/Embeddings, Semantic Similarity, Embeddings in RAG
+
+**Reading Material**:
+- https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-generating-embeddings
+
+---
+## 🗓️ Day 10:What are vector databases? (July 17th, 2024) 
+---
+**Key Topics**: Embeddings, Vector databases, Similarity search
+
+**Reading Material**:
+- https://www.pinecone.io/learn/vector-database/
+---
+## 🗓️ Day 11: LLM Evaluation (July 18th, 2024) 
+---
+**Key Topics**: Evaluation Dimensions
+
+**Reading Material**:
+- https://www.labellerr.com/blog/evaluating-large-language-models/#:~:text=To%20ensure%20a%20comprehensive%20evaluation,of%20a%20set%20of%20prompts.
+---
+## 🗓️ Day 12: Fine-Tuning(July 19th, 2024) 
+---
+**Key Topics**: Definition, Resources
+
+**Reading Material**:
+- https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning
+- https://www.superannotate.com/blog/llm-fine-tuning
+  
+**Notebooks and Coding Courses/Tutorials**:
+- https://github.com/aishwaryanr/awesome-generative-ai-guide?tab=readme-ov-file#fine-tuning-tutorials
+- [Training & Fine-Tuning LLMs for Production](https://learn.activeloop.ai/courses/llms) by Activeloop
+- [Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) by DeepLearning.AI
+- [Tutorial to Fine-Tune Mistal on your own data](https://github.com/brevdev/notebooks/blob/main/mistral-finetune-own-data.ipynb) by Brev.Dev
+
+**Apps to generate AI videos (like the one I created)**
+- https://www.heygen.com/
+- https://www.synthesia.io/
+- https://www.tryparrotai.com/
+---
+## 🗓️ Day 13: RLHF (July 20th, 2024) 
+---
+**Key Topics**: Definition, Alignment, Reward model
+
+**Reading Material**:
+- https://huggingface.co/blog/rlhf
+  
+## 🗓️ Day 14: AI projects for your resume (July 21st, 2024) 
+---
+
+**Reading Material**:
+- https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/gen_ai_projects.md
+---
+## 🗓️ Day 15: LLM Agents (July 22nd, 2024) 
+---
+**Key Topics**: Planning, Memory, Tools
+
+**Reading Material**:
+- https://developer.nvidia.com/blog/introduction-to-llm-agents/
+---
+## 🗓️ Day 16: Adversarial Attacks (July 23rd, 2024) 
+---
+**Key Topics**: Jailbreaking, Attacks
+
+**Reading Material**:
+- https://www.discovermagazine.com/technology/adversarial-attack-makes-chatgpt-produce-objectionable-content
+- Jailbreaking paper shown in the video ([link](https://chats-lab.github.io/persuasive_jailbreaker/))
+---
+## 🗓️ Day 17: Emerging AI Trends (July 24th, 2024) 
+---
+**Key Topics**: SLMs, Multimodal Models, Agents, Embodied AI
+
+**Reading Material**:
+- https://www.forbes.com/sites/janakirammsv/2024/01/02/exploring-the-future-5-cutting-edge-generative-ai-trends-in-2024/
+- https://vmblog.com/archive/2023/12/14/kognic-2024-predictions-the-year-of-embodied-ai.aspx
+---
+## 🗓️ Day 18: Small Language Models(July 25th, 2024) 
+---
+**Key Topics**: Knowledge distillation, Pruning, Quantization
+
+**Reading Material**:
+- https://aisera.com/blog/small-language-models/
+---
+
+## 🗓️ Day 19: AI Engineer Interview Tips Part 1(July 25th, 2024) 
+---
+
+**Key Topics**: AI Engineer Skill Checklist
 
 ---
 
-Video:
 
-Reading Material:
+## 🗓️ Day 20: AI Engineer Interview Tips Part 2(July 25th, 2024) 
+---
 
-## 🗓️ Day 1: What is Generative AI
+**Key Topics**: AI Engineer Interview Structure
 
 ---
 
-Video:
 
-Reading Material:
+
+
+
